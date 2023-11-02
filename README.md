@@ -1,4 +1,4 @@
-# TicTacToe
+# TicTacToe with tkinter
 
 I attempted to write a program called "Tic-Tac-Toe" using tkinter.
 It's simple, easy, and enjoyable.
